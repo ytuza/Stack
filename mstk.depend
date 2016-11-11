@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1478841907 source:c:\users\estela\desktop\mstk\main.cpp
+	<iostream>
+	"Stack.h"
+
+1478842161 c:\users\estela\desktop\mstk\include\stack.h
+	<iostream>
+	<vector>
+
+1478842145 source:c:\users\estela\desktop\mstk\src\stack.cpp
+	"Stack.h"
+
